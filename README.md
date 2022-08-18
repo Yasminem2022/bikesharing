@@ -6,7 +6,7 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
-The following visualizations help to soldify the proposal:
+The following visualizations from my [Tableau Story](https://public.tableau.com/app/profile/yasmine4678/viz/NYCCitiBike_16607880136500/BikeTripAnalysis?publish=yes) help to soldify the proposal:
 
 ![One](checkoutimesforusers.png)
 
